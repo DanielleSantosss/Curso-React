@@ -8,8 +8,8 @@ function Saudacao({nome}) {
     
         <>
             {nome && <p>{gerarSaudacao(nome)}</p>} 
-        </>
-    
+        </>   
+        
     )
 
 }
